@@ -1,0 +1,103 @@
+#foot{
+	background: lightgray;
+	margin-top: 200px;
+	margin-left: -8px;
+	margin-bottom: -5px;
+	width: 101.1%;
+	height: 60px;
+	text-align: center;
+}
+
+#desc{
+	font-family: sans-serif;
+	margin-right: 575px;
+	margin-left: 25px;
+	line-height: 200%;
+}
+
+#head{
+	font-weight: bolder;
+	padding-left: 25px;
+	padding-top: 30px;
+	font-family: sans-serif;
+
+}
+
+#subhead{
+	font-style: italic;
+	font-weight: bold;
+	padding: 15px;
+	padding-left: 25px;
+	font-family: sans-serif;
+}
+
+#login{
+	float: right;
+	border-style: solid;
+	margin-right: 100px;
+	background-color: lightgray;
+	border-radius: 25px;
+	width: 400px;
+	height: 350px;
+}
+
+#ins{
+	font-weight: bolder;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#error{
+	font-family: sans-serif;
+	text-align: center;
+	color: red;
+	font-style: italic;
+}
+
+#input{
+	background-color: white;
+	text-align: center;
+	align-content: center;
+	font-family: sans-serif;
+	padding: 1px;
+}
+
+button{
+	border-style: hidden;
+	border-radius: 25px;
+	background-color: lightgray;
+	width: 80px;
+	height: 35px;
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+button:hover{
+	border-style: solid;
+	border-radius: 25px;
+	background-color: lightgray;
+	width: 80px;
+	height: 35px;
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+button:active{
+	border-style: solid;
+	border-radius: 25px;
+	background-color: lightgray;
+	width: 80px;
+	height: 35px;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+#pass:hover{
+	background-color: lightgray;
+}
+#usname:hover{
+	background-color: lightgray;
+}
